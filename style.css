@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500;700;900&display=swap');
+
+body html{
+	font-family: 'Roboto', sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+h4{
+
+}
+
+h1{
+
+}
+
+.wrapper{
+
+}
+
+.hero-banner{
+	background-image: url("img/photo_3.jpg");
+	height: 100vh;
+
+}
+
+a.cta
+button.cta{
+
+}
+
+
+a.cta.alt
+button.cta.ali{
+
+}
+
+/*
+
+<div class="NATURALISM">
+		<div class="wrapper">
+			<h4>Rich from <a href="https://ruslangumennyy.com"></a> presents</h4>
+			<h1>Collection Autumn Winter 2020-21</h1>
+
+	</div>
+	<div class="sep"></div>
+	<img src="img/photo_8437.jpg" height="640" height="360" alt="NATURALISM">
+		
+	</div>
+
+*/
